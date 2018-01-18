@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './Footer';
-import AddTodo from './AddTodo';
+import AddTodo from './AddTodo.es6';
 import VisibleTodoList from './VisibleTodoList';
 
 const App = () => (
@@ -12,3 +12,4 @@ const App = () => (
 );
 
 export default App;
+``
